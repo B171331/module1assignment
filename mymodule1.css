@@ -1,0 +1,49 @@
+.mainheading {
+    font-size:30px;
+    text-align: center;
+}
+.box1 {
+    height:160px;
+    width:350px;
+    border-style: solid;
+    border-width:2px;
+    background-color: blueviolet;
+    margin:10px; 
+}
+
+.box2 {
+    border-style:solid;
+    border-width:2px;
+    height:30px;
+    width:100px;
+    margin-left:auto;
+    background-color: palevioletred;
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+}
+.para {
+    padding:5px;
+}
+.box21 {
+    border-style:solid;
+    border-width:2px;
+    height:30px;
+    width:100px;
+    margin-left:auto;
+    background-color:brown;
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+}
+.box22 {
+    border-style:solid;
+    border-width:2px;
+    height:30px;
+    width:100px;
+    margin-left:auto;
+    background-color:yellow;
+    text-align: center;
+    font-size: 20px;
+    font-weight:bold;
+}
